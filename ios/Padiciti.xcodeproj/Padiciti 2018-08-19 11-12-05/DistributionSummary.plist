@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Padiciti.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>70BB703F730C872CFB2A85CA83F8C879497AFED2</string>
+				<key>dateExpires</key>
+				<string>12/08/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>7BHNE547TV.com.padicon.paditrain</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>7BHNE547TV</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>7BHNE547TV.com.padicon.paditrain</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Padiciti.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>55170848-c527-40e8-bc15-2a302a6a9426</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.padicon.paditrain</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>7BHNE547TV</string>
+				<key>name</key>
+				<string>PADICON TEKNOLOGI INFORMASI, PT</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
